@@ -59,6 +59,6 @@ connect()
 
 # insert("the Banana", "Wa Na", 1983, 30880)
 # delete(3)
-update(4, "the sun", "Wa Yi", 1962, 308798)
-print(view())
+#update(4, "the sun", "Wa Yi", 1962, 308798)
+# print(view())
 #print(search(author="Wa Di"))
