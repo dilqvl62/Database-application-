@@ -1,1 +1,3 @@
 *.pbxproj binary merge=union
+app/* linguist-documentation=false
+app/* linguist-vendore
